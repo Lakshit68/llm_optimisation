@@ -7,10 +7,12 @@
 3. Picks an action (`REFUND`, `REPLACE`, `SEND_ARTICLE`, `ESCALATE_TIER2`)
 4. Cites the help-center article that backs the decision (`data/kb/`)
 
-| Track | Code | Spec |
-|-------|------|------|
-| Q1 — single call | [question1/agent.py](question1/agent.py) | [questions/question-1.md](questions/question-1.md) |
-| Q2 — pipeline | [question2/agent.py](question2/agent.py) | [questions/question-2.md](questions/question-2.md) |
+| Track | Code | Spec | Report |
+|-------|------|------|--------|
+| Q1 — single call | [question1/agent.py](question1/agent.py) | [questions/question-1.md](questions/question-1.md) | [question1/README.md](question1/README.md) |
+| Q2 — pipeline | [question2/agent.py](question2/agent.py) | [questions/question-2.md](questions/question-2.md) | [question2/README.md](question2/README.md) |
+
+Comprehensive final report across both questions: [REPORT.md](REPORT.md).
 
 ## Run
 
